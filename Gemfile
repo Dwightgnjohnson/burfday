@@ -39,3 +39,6 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 
 gem 'devise', '~> 3.4.1'
+gem "geocoder"
+gem 'simple_form'
+gem 'country_select'
